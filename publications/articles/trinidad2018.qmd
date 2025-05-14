@@ -1,0 +1,36 @@
+---
+title: "Environmental factors in juvenile delinquency: A systematic review of the situational perspectives’ literature"
+type: "article"
+author:  
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation: University of the Basque Country, Spain
+  - name: Laura Vozmediano
+    url: https://www.ehu.eus/en/web/dms/laura-vozmediano-sanz
+    orcid: 0000-0003-3239-8327
+    affiliation: University of the Basque Country, Spain
+  - name: César San Juan
+    url: https://www.ehu.eus/en/web/dms/director 
+    orcid: 0000-0001-8067-6729
+    affiliation: University of the Basque Country, Spain
+
+year: "2018"
+publication: "Crime Psychology Review"
+doi: "https://doi.org/10.1080/23744006.2019.1591693"
+toc: false
+categories:
+  - juvenile delinquency
+  - environment
+  - context
+  - systematic review
+  - article
+---
+
+## Citation (APA 7)
+
+> Trinidad, A., Vozmediano, L., & San-Juan, C. (2018). Environmental factors in juvenile delinquency: A systematic review of the situational perspectives’ literature. *Crime Psychology Review, 4*(1), 45–71. https://doi.org/10.1080/23744006.2019.1591693
+
+
+## Abstract
+This paper aims to summarise and integrate the accumulated knowledge on recent literature analysing the situational factors of juvenile delinquency and draw future avenues for research. A review of recent empirical papers published on two relevant databases allowed us to gather a sample of 88 papers published from 2010 to 2017 that analyse the role of situational factors of delinquent behaviour using quantitative methods and applying one of the situational theories. The results highlight the robustness of some situational and environmental variables for a deeper understanding of juvenile antisocial behaviour by putting it into context. There is a considerable amount of evidence to corroborate the impact of unstructured leisure activities on antisocial behaviour, or the role of home location in establishing a geographic area of action. However, there is ambiguous evidence on other aspects: i.e. guardianship needs to be understood and measure in a more complex way, and the role of physical design of the places where juvenile delinquency happens deserves further analysis. Future research lines from this perspective are needed and will offer relevant improvements for better understanding juvenile delinquency and designing more effective preventive measures.
