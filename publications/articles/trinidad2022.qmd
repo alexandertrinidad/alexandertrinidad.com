@@ -1,0 +1,36 @@
+---
+title: "Environmental Conditions Associated With Youth Delinquency Events: A Temporal, Meteorological, and Contextual Perspective"
+type: "article"
+author:  
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation: Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) & University of the Basque Country, The Netherlands
+  - name: César San Juan
+    url: https://www.ehu.eus/en/web/dms/director 
+    orcid: 0000-0001-8067-6729
+    affiliation: University of the Basque Country, Spain
+  - name: Laura Vozmediano
+    url: https://www.ehu.eus/en/web/dms/laura-vozmediano-sanz
+    orcid: 0000-0003-3239-8327
+    affiliation: University of the Basque Country, Spain
+year: "2022"
+publication: "Environment and Behavior"
+doi: "https://doi.org/10.1177/00139165211060521"
+pdf: "files/trinidad_2022_juv_met.pdf"
+toc: false
+categories:
+  - juvenile delinquency
+  - geometry of crime
+  - crime patterns
+  - environment
+  - article
+---
+
+## Citation (APA 7)
+
+> Trinidad, A., San Juan, C., & Vozmediano, L. (2022). Environmental Conditions Associated With Youth Delinquency Events: A Temporal, Meteorological, and Contextual Perspective. *Environment and Behavior, 54*(3), 629-654. https://doi.org/10.1177/00139165211060521
+
+
+## Abstract
+Research on youth delinquency has been essential for gaining a deeper understanding of the etiology of delinquent behavior. Studies considering the environmental perspective have increased during the last decade, but relatively little attention has been paid to temporal patterns and weather conditions. The present study explores the seasonality of youth delinquency as well as the association between violent and non-violent youth offenses and temperature, rainfall, level of darkness, type of day, type of place, and companionship, using data gathered by the police along with data obtained from official weather agencies. To this end, we conducted ANOVA and contingency table analyses. Seasonality was found for non-violent crimes. Companionship, semi-public, and public places were all associated with a higher likelihood of non-violent crime, while darkness and public holidays raise the odds of violent crime to happen. No direct association was found between temperature and type of crime.
