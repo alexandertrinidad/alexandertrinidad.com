@@ -1,0 +1,26 @@
+---
+title: "Investigating the analytical robustness of the social and behavioural sciences"
+type: "working-papers"
+author:  
+  - name: Barnabas Szaszi
+    url: https://www.barnabasszaszi.com/
+    orcid: 0000-0002-6100-4270
+    affiliation: Eötvös Loránd University
+  - name: et al.
+year: "2025"
+# publication: "SocArXiv"
+# doi: "https://osf.io/q5h2c/?view_only="
+# preprint: 
+materials: "https://osf.io/q5h2c/?view_only="
+toc: false
+categories:
+  - meta-science 
+  - multi-analyst
+  - working paper
+---
+
+<!-- ## Citation (APA 7) -->
+
+
+
+<!-- ## Abstract -->
