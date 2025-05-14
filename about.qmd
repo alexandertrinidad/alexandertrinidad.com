@@ -1,0 +1,60 @@
+---
+title: "Alex Trinidad"
+image: profile.png
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  links:
+    - text: "![](images/ri--bluesky-fill.svg)"
+      href: https://bsky.app/profile/alextrinidad.bsky.social
+    - text: "![](images/mdi--linkedin.svg)"
+      href: https://www.linkedin.com/in/alexander-trinidad-pascual/
+    - text: "![](images/pajamas--github.svg)"
+      href: https://github.com/alexandertrinidad
+    - text: "![](images/simple-icons--osf.svg)"
+      href: https://osf.io/mdre4/
+    - text: "![](images/simple-icons--orcid.svg)"
+      href: https://orcid.org/0000-0002-0762-5367
+    - text: "![](images/academicons--google-scholar.svg)"
+      href: https://scholar.google.com/citations?user=JZ1gq6AAAAAJ&hl=en&oi=ao
+    - text: "![](images/academicons--cv.svg)"
+      href: files/cv.pdf
+
+---
+
+
+::: {#hero-heading}
+
+## About me
+I am a researcher and lecturer interested in the spatial and temporal dynamics of antisocial behavior, crime perceptions, and public opinion. Using computational social science methods and research synthesis techniques, I analyze how crime and social attitudes evolve across contexts while promoting Open Science practices to enhance transparency and reproducibility.
+
+In my teaching, I provide students with methodological tools to study crime patterns, research synthesis methods, and criminological theory. I emphasize the use of R for data analysis and advocate for Open Science values to foster rigorous and collaborative research.
+
+## Recent Experience
+
+**University of Cologne** | Cologne, Germany
+
+*Postdoctoral Researcher & Lecturer* | Oct 2021 - present
+
+**Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)** 
+**& University of the Basque Country**  | Amsterdam, The Netherlands
+
+*Postdoctoral Researcher* | Jan 2020 - Sep 2021
+
+## Education 
+
+**University of the Basque Country** | Donostia, Spain
+
+*Ph.D. in Psychology* | Oct 2019
+
+**University of Santiago de Compostela** | Santiago de Compostela, Spain
+
+*M.Sc. in Psychology* | Jun 2015
+
+**University of the Basque Country** | Donostia, Spain
+
+*B.Sc. in Psychology* | Jul 2013
+
+:::
+
