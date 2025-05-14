@@ -1,0 +1,29 @@
+---
+title: "Open Science und Open Data in der Kriminologie – Tagungsbericht zum ersten internationalen Workshop zu transparenten Forschungspraktiken in der Kriminologie an der Universität zu Köln"
+type: "article"
+author:  
+  - name: Christof Nägel
+    url: https://christofnaegel.netlify.app/
+    orcid: 0000-0003-2161-539X
+    affiliation: University of Cologne, Germany
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation: University of Cologne, Germany
+year: "2024"
+publication: "Kriminologie - Das Online-Journal | Criminology - The Online Journal"
+doi: "https://doi.org/10.18716/ojs/krimoj/2024.4.7"
+toc: false
+categories:
+  - open science
+  - criminology
+  - meta-science
+---
+
+## Citation (APA 7)
+
+> Nägel, C., & Trinidad, A. (2024). Open Science und Open Data in der Kriminologie – Tagungsbericht zum ersten internationalen Workshop zu transparenten Forschungspraktiken in der Kriminologie an der Universität zu Köln. *Kriminologie - Das Online-Journal | Criminology - The Online Journal, 4*(6), 281–289. https://doi.org/10.18716/ojs/krimoj/2024.4.7
+
+
+## Abstract
+In September 2024, the University of Cologne hosted the first in-person workshop on Open Science (OS) and Open Data in European Criminology. It was the first event of its kind, organized in a mini-conference format.
