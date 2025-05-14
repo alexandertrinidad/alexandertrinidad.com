@@ -1,0 +1,31 @@
+---
+title: "Theft Victimization in Urban Settings: Comparison of Tourist and Resident Case Profiles"
+type: "article"
+author:  
+  - name: Nerea Mareteache
+    url: https://www.csusb.edu/profile/nmarte
+    orcid: 0000-0003-4534-5320
+    affiliation: California State University San Bernardino, USA
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation: University of Cologne, Germany & Netherlands Institute for the Study of Crime and Law Enforcement (NSCR)
+year: "2024"
+publication: "Crime & Delinquency"
+doi: "https://doi.org/10.1177/00111287231163100"
+materials: "https://osf.io/2zts4/"
+postprint: "https://osf.io/as9u7_v1"
+toc: false
+categories:
+  - tourism
+  - victimization
+  - article
+---
+
+## Citation (APA 7)
+
+> Marteache, N., & Trinidad, A. (2024). Theft Victimization in Urban Settings: Comparison of Tourist and Resident Case Profiles. *Crime & Delinquency, 70*(11), 3102-3126.https://doi.org/10.1177/00111287231163100
+
+
+## Abstract
+The relationship between urban tourism and crime has been well documented, although a focus on the specifics of tourist victimization is lacking. This study explores police-recorded thefts against urban tourists in the city of Barcelona (Spain). We apply Conjunctive Analysis of Case Configurations to a large data sample to uncover victimization case profiles and the context in which crimes are committed. Comparisons to resident victimization reveal that the case profiles most likely to result in a tourist being the victim of theft have predominantly female, young targets, and occur mostly at restaurants/bars and during the Summer. Future research should examine victimization trends while accounting for time spent in different settings, and compare self-protective behaviors taken by tourists and residents.
