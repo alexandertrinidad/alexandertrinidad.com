@@ -1,0 +1,35 @@
+---
+title: "Scenarios of juvenile delinquency in the urban sphere: a situational perspective"
+type: "article"
+author:  
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation: University of the Basque Country, Spain
+  - name: César San Juan
+    url: https://www.ehu.eus/en/web/dms/director 
+    orcid: 0000-0001-8067-6729
+    affiliation: University of the Basque Country, Spain
+  - name: Laura Vozmediano
+    url: https://www.ehu.eus/en/web/dms/laura-vozmediano-sanz
+    orcid: 0000-0003-3239-8327
+    affiliation: University of the Basque Country, Spain
+
+year: "2019"
+publication: "Revista Criminalidad"
+doi: "https://doi.org/10.47741/17943108.55"
+pdf: http://www.scielo.org.co/pdf/crim/v61n2/1794-3108-crim-61-02-00009.pdf 
+toc: false
+categories:
+  - juvenile delinquency
+  - geometry of crime
+  - crime patterns
+  - article
+---
+
+## Citation (APA 7)
+
+> Trinidad, A., San Juan, C. & Vozmediano, L. (2019). Escenarios de delincuencia juvenil en el ámbito urbano: una perspectiva situacional. *Revista Criminalidad, 61*(2): 9-24. <https://doi.org/10.47741/17943108.55>
+
+## Abstract
+Throughout the three last decades the study of the special and contextual variables associated with the delinquency has increased. The empirical evidence has signaled that the crimes are concentrated in specific spaces in the city and around certain type of facilities and services. Nevertheless, the studies in the south of Europe about this issue are certainly scarce, especially if it is about centering the analysis in juvenile population. The main objective is to explore the concentration of the juvenile delinquency in urban space and to study the types of predominant facilities in the resultant hotspots. For it, and under the theoretical framework that the situational perspectives could bring to, the offences committed by minors with data provided by the Basque country police (Spain) were analyzed - following a retrospective ex post facto methodology. Clusters of geolocated events have been obtained and, through an analysis of the areas of influence, a recount of the facilities that exist around those clusters has been done. The results indicate that concentration of the infringements exists in specific places in which certain facilities prevail over others. 
