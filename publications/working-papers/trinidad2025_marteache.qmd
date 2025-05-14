@@ -1,0 +1,27 @@
+---
+title: "Examining Temporal and Spatial Dynamics of Tourist and Resident Robberies: A Comparative Analysis"
+type: "working-papers"
+author:  
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation: University of Cologne, Germany
+  - name: Nerea Mareteache
+    url: https://www.csusb.edu/profile/nmarte
+    orcid: 0000-0003-4534-5320
+    affiliation: California State University San Bernardino, USA
+  - name: Juanjo Medina
+    url: https://www.juanjomedina.com/
+    affiliation: University of Seville, Spain
+year: "2025"
+# publication: "Crime & Delinquency"
+# doi: "https://doi.org/10.1177/00111287231163100"
+# materials: "https://osf.io/2zts4/"
+# postprint: "https://osf.io/as9u7_v1"
+toc: false
+categories:
+  - tourism
+  - victimization
+  - crime patterns
+  - working paper
+---
