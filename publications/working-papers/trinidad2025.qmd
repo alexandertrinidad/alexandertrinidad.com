@@ -1,0 +1,26 @@
+---
+title: "Examining the Link Between Self-Control and COVID-19 Measure Compliance: A Specification Curve Analysis Approach."
+type: "working-papers"
+author: 
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation:  University of Cologne, Germany
+  - name: Fabian Hasselhorn
+    orcid: 0000-0002-8450-7911
+    affiliation:  University of Cologne, Germany
+  - name: André Ernst
+    orcid: 0000-0002-6258-748X
+    affiliation:  University of Cologne, Germany
+    
+year: "2025"
+# publication: "OSFpreprints"
+# materials: "https://osf.io/4j5t9/"
+# preprint: "https://doi.org/10.31219/osf.io/m2zyc"
+toc: false
+categories:
+  - multiverse analysis
+  - meta-science
+  - open science
+  - working paper
+---
