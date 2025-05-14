@@ -1,0 +1,34 @@
+---
+title: "Welcome!"
+image: profile.png
+about:
+  id: hero-heading
+  template: jolla
+  image-shape: round
+  links:
+    - text: "![](images/ri--bluesky-fill.svg)"
+      href: https://bsky.app/profile/alextrinidad.bsky.social
+    - text: "![](images/mdi--linkedin.svg)"
+      href: https://www.linkedin.com/in/alexander-trinidad-pascual/
+    - text: "![](images/pajamas--github.svg)"
+      href: https://github.com/alexandertrinidad
+    - text: "![](images/simple-icons--osf.svg)"
+      href: https://osf.io/mdre4/
+    - text: "![](images/simple-icons--orcid.svg)"
+      href: https://orcid.org/0000-0002-0762-5367
+    - text: "![](images/academicons--google-scholar.svg)"
+      href: https://scholar.google.com/citations?user=JZ1gq6AAAAAJ&hl=en&oi=ao
+    - text: "![](images/academicons--cv.svg)"
+      href: files/cv.pdf
+
+      
+      
+      
+---
+
+::: {#hero-heading}
+I am a postdoctoral researcher and lecturer at the Department of Sociology and Social Psychology [(DSS)](https://dss.uni-koeln.de/en) at the University of Cologne. At the [Chair for Methods of Empirical Social Research](https://dss.uni-koeln.de/en/department/professors/methods-of-empirical-social-research-prof-dr-thomas-leopold), I explore the complexities of social behavior through theory-based and data-driven insights. I am also a research fellow at the Crime Events in Context research group at the Netherlands Institute for the Study of Crime and Law Enforcement [(NSCR)](https://nscr.nl/en/) and at the Applied Criminology and Environmental Psychology [(Crim-Ap)](https://www.ehu.eus/en/web/dms/equipo).
+
+
+:::
+
