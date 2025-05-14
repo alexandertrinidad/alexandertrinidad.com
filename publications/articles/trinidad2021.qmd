@@ -1,0 +1,38 @@
+---
+title: "Taking a Walk on the Wild Side”: Exploring Residence-to-Crime in Juveniles"
+type: "article"
+author:  
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation: University of the Basque Country, Spain
+  - name: Laura Vozmediano
+    url: https://www.ehu.eus/en/web/dms/laura-vozmediano-sanz
+    orcid: 0000-0003-3239-8327
+    affiliation: University of the Basque Country, Spain
+  - name: Estefanía Ocáriz
+    url: https://www.ehu.eus/en/web/dms/estefania-ocariz-passevant
+    orcid: 0000-0001-5260-1885
+    affiliation: University of the Basque Country, Spain
+  - name: César San Juan
+    url: https://www.ehu.eus/en/web/dms/director 
+    orcid: 0000-0001-8067-6729
+    affiliation: University of the Basque Country, Spain
+
+year: "2021"
+publication: "Crime & Delinquency"
+doi: "https://doi.org/10.1177/0011128720916141"
+toc: false
+categories:
+  - juvenile delinquency
+  - geometry of crime
+  - crime patterns
+  - article
+---
+
+## Citation (APA 7)
+
+> Trinidad, A., Vozmediano, L., Ocáriz, E., & San-Juan, C. (2021). “Taking a Walk on the Wild Side”: Exploring Residence-to-Crime in Juveniles. *Crime & Delinquency, 67*(1), 58-81. https://doi.org/10.1177/0011128720916141
+
+## Abstract
+Although evidence regarding the journey-to-crime in juvenile offenders is available for some areas of the world, little is known about their mobility patterns in Southern Europe. Variables such as prosocial facilities, transport stations, or socioeconomic backdrop have been proved to influence the traveled distance. Therefore, we aimed to confirm previous findings in the journey-to-crime literature using data provided by the Juvenile Justice Department of the Basque Country (Spain). Although some results are in line with those of previous studies, emphasizing the relevance of environmental factors for better understanding crime patterns in the juvenile population, other specific patterns also emerged that suggest the need to replicate research across countries and to consider specific behavior patterns and styles of spatial design in each study setting.
