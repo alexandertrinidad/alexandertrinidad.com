@@ -1,0 +1,35 @@
+---
+title: "“Jumping at the opportunity”: The role of situational and opportunity factors in juvenile delinquency in Southern Europe"
+type: "article"
+author:  
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation: University of the Basque Country, Spain
+  - name: Laura Vozmediano
+    url: https://www.ehu.eus/en/web/dms/laura-vozmediano-sanz
+    orcid: 0000-0003-3239-8327
+    affiliation: University of the Basque Country, Spain
+  - name: César San Juan
+    url: https://www.ehu.eus/en/web/dms/director 
+    orcid: 0000-0001-8067-6729
+    affiliation: University of the Basque Country, Spain
+
+year: "2019"
+publication: "International Journal of Law, Crime and Justice"
+doi: "https://doi.org/10.1016/j.ijlcj.2019.100347"
+toc: false
+categories:
+  - juvenile delinquency
+  - geometry of crime
+  - crime patterns
+  - article
+---
+
+## Citation (APA 7)
+
+> Trinidad, A., Vozmediano, L., & San-Juan, C. (2019). “Jumping at the opportunity”: The role of situational and opportunity factors in juvenile delinquency in Southern Europe. *International Journal of Law, Crime and Justice, 59*, 100347. https://doi.org/10.1016/j.ijlcj.2019.100347
+
+
+## Abstract
+Juvenile delinquency is influenced by opportunities and situations: the existing evidence has pointed out that variables such as leisure places or poor social cohesion are associated to offenses committed by youths. Considering the opportunity perspective, the current study aims to better understand the influence that situational and contextual factors have on juvenile (12–18 years old) delinquency in a southern European region. Police data from the municipalities of the Basque Country (located at the north of Spain) was analysed using a negative binomial regression, showing that opportunity related variables, such as non-risky leisure and population size, have significant positive effects on juvenile delinquency, whereas risky leisure opportunities, single-parent families or residential instability are not related to juvenile delinquency, suggesting that some predictors well established in the literature could not work as expected in certain cultural and geographic contexts.
