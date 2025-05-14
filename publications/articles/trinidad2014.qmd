@@ -1,0 +1,29 @@
+---
+title: "Las infracciones juveniles en la Comunidad Autónoma del País Vasco. Análisis de las estadísticas oficiales (2007-2012)"
+type: "article"
+author:  
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation: University of the Basque Country, Spain
+  - name: Estefanía Ocáriz
+    url: https://www.ehu.eus/en/web/dms/estefania-ocariz-passevant
+    orcid: 0000-0001-5260-1885
+    affiliation: University of the Basque Country, Spain
+
+year: "2014"
+publication: "International E-Journal of Criminal Sciences"
+pdf: "https://ojs.ehu.eus/index.php/inecs/article/view/13228"
+toc: false
+categories:
+  - juvenile delinquency
+  - official data
+  - article
+---
+
+## Citation (APA 7)
+
+> Ocáriz, E. & Trinidad, A. (2014). Las infracciones juveniles en la Comunidad Autónoma del País Vasco. Análisis de las estadísticas oficiales (2007-2012) *International E-Journal of Criminal Sciences, 8*,1-18.
+
+## Abstract
+En estos últimos años las acciones delictivas cometidas por las personas menores de edad han tenido una gran repercusión social. El desconocimiento de las cifras oficiales sobre la delincuencia juvenil propicia que se perfilen características de menores infractores que no se corresponden con la realidad. Por ello, presentamos una revisión de las estadísticas sobre las infracciones juveniles en la Comunidad Autónoma del País Vasco durante el periodo del 2007-2012 en base al Instituto Nacional de Estadística (INE), comparándolas a nivel nacional. Teniendo en cuenta anteriores evaluaciones de la justicia juvenil en la CAPV realizadas por el Instituto Vasco de Criminología, se ha querido hacer un análisis descriptivo mediante frecuencias de los datos obtenidos. De esta manera, tras la revisión de diferentes variables como el número de infracciones cometidas, el sexo y el lugar de nacimiento, y su comparación a nivel nacional con la CAPV, se han obtenido algunas conclusiones acerca del menor infractor en la Comunidad Autónoma del País Vasco.
