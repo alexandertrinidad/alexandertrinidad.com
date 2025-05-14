@@ -1,0 +1,39 @@
+---
+title: "Negative online experiences, worry, and risk perception among adolescents: Gender differences and implications for cybercrime awareness"
+type: "article"
+author: 
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation: University of Cologne, Germany
+  - name: Verónica Marcos
+    url: https://www.researchgate.net/profile/Veronica-Marcos-2
+    orcid: 0000-0002-5751-8885
+    affiliation: University of Santiago de Compostela, Spain
+  - name: Álvaro Montes
+    url: https://www.researchgate.net/profile/Alvaro-Montes-2
+    affiliation: University of Santiago de Compostela, Spain  
+  - name: Dolores Seijo
+    url: https://www.researchgate.net/profile/Dolores-Seijo
+    affiliation: University of Santiago de Compostela, Spain  
+year: "2025"
+publication: "Cyberpsychology, Behavior, and Social Networking"
+doi: "https://doi.org/10.1089/cyber.2024.0476"
+materials: "https://osf.io/rfnst/"
+# postprint: 
+pdf: "files/trinidad_prev_cyber_foc_2025.pdf"
+toc: false
+categories:
+  - crime perceptions
+  - cyberpsychology
+  - victimization
+  - article
+---
+
+## Citation (APA 7)
+
+> Trinidad, A., Marcos, V., Montes, A., & Seijo, D. (2025). Negative online experiences, worry, and risk perception among adolescents: Gender differences and implications for cybercrime awareness. *Cyberpsychology, Behavior, and Social Networking, 28*(5), https://doi.org/10.1089/cyber.2024.0476
+
+
+## Abstract
+The present study aims to explore the negative online experiences in adolescence, as well as examine the associations of those and their interaction patterns with the frequency of worry and risk perception in relation to several types of online victimization. We conducted a cross-sectional survey study conducted between 2022 and 2023. We collected a nonprobabilistic sample of 824 Spanish adolescents. We elaborated a questionnaire based on measures of online victimization to collect data about the fear of and risk perception of online victimization. The sample was composed of 48.3% females, 49.5% males, and 1.8% gender nonbinary, aged between 12 and 18 years old (mean = 14.53, standard deviation = 1.48). The results showed a prevalence point of negative experiences in the use of social networking or messaging apps of 23.4%, with older adolescents (aged 15–18 years) having a slightly higher prevalence than younger adolescents. Additionally, negative online experience was higher among female adolescents. The bivariate analyses of the high frequency of worry about and risk perception of online victimization and gender revealed that, overall, adolescents are more worried about online victimization than they perceive risk. The log-linear regression shows different types of associations among, the high frequency of worry about or risk perception of online victimization, negative online experiences, and gender.
