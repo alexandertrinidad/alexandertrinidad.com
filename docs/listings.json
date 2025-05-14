@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/publications/index.html",
-    "items": [
-      "/publications/articles/naegel-trinidad/index.html",
-      "/publications/working-papers/yastrebov-trinidad-leopold-bound/index.html"
-    ]
-  },
-  {
     "listing": "/publications.html",
     "items": [
       "/publications/articles/trinidad2025.html",
@@ -25,25 +18,6 @@
       "/publications/working-papers/vozmediano2024.html",
       "/publications/working-papers/yastrebov2024.html",
       "/publications/working-papers/jauregui2024.html"
-    ]
-  },
-  {
-    "listing": "/source.html",
-    "items": [
-      "/about.html",
-      "/publications/working-papers/vozmediano2024.html",
-      "/publications/articles/trinidad2022.html",
-      "/publications/articles/trinidad2018.html",
-      "/publications/articles/trinidad2014.html",
-      "/publications/articles/naegel2024.html",
-      "/publications/articles/trinidad2019_2.html",
-      "/publications/articles/trinidad2021.html",
-      "/publications/articles/marteache2024.html",
-      "/publications/working-papers/yastrebov2024.html",
-      "/index.html",
-      "/publications/working-papers/jauregui2024.html",
-      "/publications.html",
-      "/publications/articles/trinidad2019.html"
     ]
   }
 ]
