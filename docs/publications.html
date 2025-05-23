@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-doi','listing-materials','listing-postprint','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-pdf',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-doi','listing-materials','listing-postprint','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-pdf','listing-preprint',{ data: ['index'] },{ data: ['categories'] }],
       
       searchColumns: ["listing-title","listing-author","listing-publication","listing-year"],
     };
@@ -229,7 +229,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(16)</span></div><div class="category" data-category="APC Analysis">APC Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="CPTED">CPTED <span class="quarto-category-count">(2)</span></div><div class="category" data-category="PTSD">PTSD <span class="quarto-category-count">(1)</span></div><div class="category" data-category="active mobility">active mobility <span class="quarto-category-count">(1)</span></div><div class="category" data-category="article">article <span class="quarto-category-count">(8)</span></div><div class="category" data-category="context">context <span class="quarto-category-count">(1)</span></div><div class="category" data-category="crime patterns">crime patterns <span class="quarto-category-count">(5)</span></div><div class="category" data-category="crime perceptions">crime perceptions <span class="quarto-category-count">(4)</span></div><div class="category" data-category="criminology">criminology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cyberpsychology">cyberpsychology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="environment">environment <span class="quarto-category-count">(2)</span></div><div class="category" data-category="geometry of crime">geometry of crime <span class="quarto-category-count">(4)</span></div><div class="category" data-category="juvenile delinquency">juvenile delinquency <span class="quarto-category-count">(6)</span></div><div class="category" data-category="meta-analysis">meta-analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="meta-science">meta-science <span class="quarto-category-count">(3)</span></div><div class="category" data-category="mixed methods">mixed methods <span class="quarto-category-count">(1)</span></div><div class="category" data-category="multi-analyst">multi-analyst <span class="quarto-category-count">(1)</span></div><div class="category" data-category="multiverse analysis">multiverse analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="official data">official data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="open science">open science <span class="quarto-category-count">(2)</span></div><div class="category" data-category="prison">prison <span class="quarto-category-count">(1)</span></div><div class="category" data-category="systematic review">systematic review <span class="quarto-category-count">(2)</span></div><div class="category" data-category="tourism">tourism <span class="quarto-category-count">(2)</span></div><div class="category" data-category="victimization">victimization <span class="quarto-category-count">(3)</span></div><div class="category" data-category="working paper">working paper <span class="quarto-category-count">(7)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(17)</span></div><div class="category" data-category="APC Analysis">APC Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="CPTED">CPTED <span class="quarto-category-count">(3)</span></div><div class="category" data-category="PTSD">PTSD <span class="quarto-category-count">(1)</span></div><div class="category" data-category="active mobility">active mobility <span class="quarto-category-count">(2)</span></div><div class="category" data-category="article">article <span class="quarto-category-count">(8)</span></div><div class="category" data-category="context">context <span class="quarto-category-count">(1)</span></div><div class="category" data-category="crime patterns">crime patterns <span class="quarto-category-count">(5)</span></div><div class="category" data-category="crime perceptions">crime perceptions <span class="quarto-category-count">(5)</span></div><div class="category" data-category="criminology">criminology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cyberpsychology">cyberpsychology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="environment">environment <span class="quarto-category-count">(2)</span></div><div class="category" data-category="geometry of crime">geometry of crime <span class="quarto-category-count">(4)</span></div><div class="category" data-category="juvenile delinquency">juvenile delinquency <span class="quarto-category-count">(6)</span></div><div class="category" data-category="meta-analysis">meta-analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="meta-science">meta-science <span class="quarto-category-count">(3)</span></div><div class="category" data-category="mixed methods">mixed methods <span class="quarto-category-count">(1)</span></div><div class="category" data-category="multi-analyst">multi-analyst <span class="quarto-category-count">(1)</span></div><div class="category" data-category="multiverse analysis">multiverse analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="official data">official data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="open science">open science <span class="quarto-category-count">(2)</span></div><div class="category" data-category="prison">prison <span class="quarto-category-count">(1)</span></div><div class="category" data-category="systematic review">systematic review <span class="quarto-category-count">(2)</span></div><div class="category" data-category="tourism">tourism <span class="quarto-category-count">(2)</span></div><div class="category" data-category="victimization">victimization <span class="quarto-category-count">(3)</span></div><div class="category" data-category="working paper">working paper <span class="quarto-category-count">(7)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -438,7 +438,30 @@ No matching items
 </div>
 <ul class="pub-list list">
 
-  <li data-index="0" data-categories="crime perceptions,cyberpsychology,victimization,article" data-listing-file-modified-sort="1747252224810" data-listing-reading-time-sort="2" data-listing-word-count-sort="245">
+  <li data-index="0" data-categories="crime perceptions,active mobility,CPTED" data-listing-file-modified-sort="1748004308593" data-listing-reading-time-sort="1" data-listing-word-count-sort="126">
+    <span class="listing-title lead">Comparing Safety Perceptions and Active Mobility in Two Urban Settings: A Case Study</span><br>
+    <span class="listing-author">Laura Vozmediano, Mikel Subiza-Pérez, César San Juan, Alex Trinidad</span><br>
+    <span class="listing-publication fst-italic ">Security Journal</span>
+    <span class="listing-year">(2025)</span><br>
+    <a href="./publications/articles/vozmediano2024.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    
+    <a href="https://doi.org/10.31219/osf.io/m2zyc" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> Preprint
+    </a>
+    
+     
+      
+    
+    <a href="https://osf.io/4j5t9/" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+    
+  </li>
+
+  <li data-index="1" data-categories="crime perceptions,cyberpsychology,victimization,article" data-listing-file-modified-sort="1747252224810" data-listing-reading-time-sort="2" data-listing-word-count-sort="245">
     <span class="listing-title lead">Negative online experiences, worry, and risk perception among adolescents: Gender differences and implications for cybercrime awareness</span><br>
     <span class="listing-author">Alex Trinidad, Verónica Marcos, Álvaro Montes, Dolores Seijo</span><br>
     <span class="listing-publication fst-italic ">Cyberpsychology, Behavior, and Social Networking</span>
@@ -465,7 +488,7 @@ No matching items
     
   </li>
 
-  <li data-index="1" data-categories="open science,criminology,meta-science" data-listing-file-modified-sort="1747252029420" data-listing-reading-time-sort="1" data-listing-word-count-sort="80">
+  <li data-index="2" data-categories="open science,criminology,meta-science" data-listing-file-modified-sort="1747252029420" data-listing-reading-time-sort="1" data-listing-word-count-sort="80">
     <span class="listing-title lead">Open Science und Open Data in der Kriminologie – Tagungsbericht zum ersten internationalen Workshop zu transparenten Forschungspraktiken in der Kriminologie an der Universität zu Köln</span><br>
     <span class="listing-author">Christof Nägel, Alex Trinidad</span><br>
     <span class="listing-publication fst-italic ">Kriminologie - Das Online-Journal | Criminology - The Online Journal</span>
@@ -484,7 +507,7 @@ No matching items
     
   </li>
 
-  <li data-index="2" data-categories="tourism,victimization,article" data-listing-file-modified-sort="1747252287953" data-listing-reading-time-sort="1" data-listing-word-count-sort="143">
+  <li data-index="3" data-categories="tourism,victimization,article" data-listing-file-modified-sort="1747252287953" data-listing-reading-time-sort="1" data-listing-word-count-sort="143">
     <span class="listing-title lead">Theft Victimization in Urban Settings: Comparison of Tourist and Resident Case Profiles</span><br>
     <span class="listing-author">Nerea Mareteache, Alex Trinidad</span><br>
     <span class="listing-publication fst-italic ">Crime &amp; Delinquency</span>
@@ -511,7 +534,7 @@ No matching items
     
   </li>
 
-  <li data-index="3" data-categories="juvenile delinquency,geometry of crime,crime patterns,environment,article" data-listing-file-modified-sort="1747252447256" data-listing-reading-time-sort="1" data-listing-word-count-sort="174">
+  <li data-index="4" data-categories="juvenile delinquency,geometry of crime,crime patterns,environment,article" data-listing-file-modified-sort="1747252447256" data-listing-reading-time-sort="1" data-listing-word-count-sort="174">
     <span class="listing-title lead">Environmental Conditions Associated With Youth Delinquency Events: A Temporal, Meteorological, and Contextual Perspective</span><br>
     <span class="listing-author">Alex Trinidad, César San Juan, Laura Vozmediano</span><br>
     <span class="listing-publication fst-italic ">Environment and Behavior</span>
@@ -534,7 +557,7 @@ No matching items
     
   </li>
 
-  <li data-index="4" data-categories="juvenile delinquency,geometry of crime,crime patterns,article" data-listing-file-modified-sort="1747252148509" data-listing-reading-time-sort="1" data-listing-word-count-sort="151">
+  <li data-index="5" data-categories="juvenile delinquency,geometry of crime,crime patterns,article" data-listing-file-modified-sort="1747252148509" data-listing-reading-time-sort="1" data-listing-word-count-sort="151">
     <span class="listing-title lead">Taking a Walk on the Wild Side”: Exploring Residence-to-Crime in Juveniles</span><br>
     <span class="listing-author">Alex Trinidad, Laura Vozmediano, Estefanía Ocáriz, César San Juan</span><br>
     <span class="listing-publication fst-italic ">Crime &amp; Delinquency</span>
@@ -553,7 +576,7 @@ No matching items
     
   </li>
 
-  <li data-index="5" data-categories="juvenile delinquency,geometry of crime,crime patterns,article" data-listing-file-modified-sort="1747252097831" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
+  <li data-index="6" data-categories="juvenile delinquency,geometry of crime,crime patterns,article" data-listing-file-modified-sort="1747252097831" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
     <span class="listing-title lead">Scenarios of juvenile delinquency in the urban sphere: a situational perspective</span><br>
     <span class="listing-author">Alex Trinidad, César San Juan, Laura Vozmediano</span><br>
     <span class="listing-publication fst-italic ">Revista Criminalidad</span>
@@ -576,7 +599,7 @@ No matching items
     
   </li>
 
-  <li data-index="6" data-categories="juvenile delinquency,geometry of crime,crime patterns,article" data-listing-file-modified-sort="1747252130293" data-listing-reading-time-sort="1" data-listing-word-count-sort="173">
+  <li data-index="7" data-categories="juvenile delinquency,geometry of crime,crime patterns,article" data-listing-file-modified-sort="1747252130293" data-listing-reading-time-sort="1" data-listing-word-count-sort="173">
     <span class="listing-title lead">“Jumping at the opportunity”: The role of situational and opportunity factors in juvenile delinquency in Southern Europe</span><br>
     <span class="listing-author">Alex Trinidad, Laura Vozmediano, César San Juan</span><br>
     <span class="listing-publication fst-italic ">International Journal of Law, Crime and Justice</span>
@@ -595,7 +618,7 @@ No matching items
     
   </li>
 
-  <li data-index="7" data-categories="juvenile delinquency,environment,context,systematic review,article" data-listing-file-modified-sort="1747252076403" data-listing-reading-time-sort="2" data-listing-word-count-sort="215">
+  <li data-index="8" data-categories="juvenile delinquency,environment,context,systematic review,article" data-listing-file-modified-sort="1747252076403" data-listing-reading-time-sort="2" data-listing-word-count-sort="215">
     <span class="listing-title lead">Environmental factors in juvenile delinquency: A systematic review of the situational perspectives’ literature</span><br>
     <span class="listing-author">Alex Trinidad, Laura Vozmediano, César San Juan</span><br>
     <span class="listing-publication fst-italic ">Crime Psychology Review</span>
@@ -614,7 +637,7 @@ No matching items
     
   </li>
 
-  <li data-index="8" data-categories="juvenile delinquency,official data,article" data-listing-file-modified-sort="1740340385865" data-listing-reading-time-sort="1" data-listing-word-count-sort="189">
+  <li data-index="9" data-categories="juvenile delinquency,official data,article" data-listing-file-modified-sort="1740340385865" data-listing-reading-time-sort="1" data-listing-word-count-sort="189">
     <span class="listing-title lead">Las infracciones juveniles en la Comunidad Autónoma del País Vasco. Análisis de las estadísticas oficiales (2007-2012)</span><br>
     <span class="listing-author">Alex Trinidad, Estefanía Ocáriz</span><br>
     <span class="listing-publication fst-italic ">International E-Journal of Criminal Sciences</span>
@@ -737,7 +760,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/imaginative-pony-2b2b97\.netlify\.app");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

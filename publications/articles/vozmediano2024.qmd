@@ -1,6 +1,6 @@
 ---
 title: "Comparing Safety Perceptions and Active Mobility in Two Urban Settings: A Case Study"
-type: "working-papers"
+type: "article"
 author: 
   - name: Laura Vozmediano
     url: https://www.ehu.eus/en/web/dms/laura-vozmediano-sanz
@@ -18,8 +18,8 @@ author:
     orcid: 0000-0002-0762-5367
     affiliation:  University of Cologne, Germany
 
-year: "2024"
-publication: "OSFpreprints"
+year: "2025"
+publication: "Security Journal"
 materials: "https://osf.io/4j5t9/"
 preprint: "https://doi.org/10.31219/osf.io/m2zyc"
 toc: false
@@ -27,12 +27,11 @@ categories:
   - crime perceptions
   - active mobility
   - CPTED
-  - working paper
 ---
 
 ## Citation (APA 7)
 
-> Vozmediano, L., Subiza-Pérez, M., San Juan, C., & Trinidad, A. (2024). Comparing Safety Perceptions and Active Mobility in Two Urban Settings: A Case Study. *OSFpreprints* https://doi.org/10.31219/osf.io/m2zyc
+> Vozmediano, L., Subiza-Pérez, M., San Juan, C., & Trinidad, A. (Accepted). Comparing Safety Perceptions and Active Mobility in Two Urban Settings: A Case Study. *Security Journal*
 
 
 ## Abstract
