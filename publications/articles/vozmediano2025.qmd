@@ -18,7 +18,7 @@ author:
     orcid: 0000-0002-0762-5367
     affiliation:  University of Cologne, Germany
 
-year: "2025"
+year: "Accepted"
 publication: "Security Journal"
 materials: "https://osf.io/4j5t9/"
 preprint: "https://doi.org/10.31219/osf.io/m2zyc"

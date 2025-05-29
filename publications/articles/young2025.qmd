@@ -1,0 +1,33 @@
+---
+title: "PTSD Prevalence in US Prisons: A Systematic Review and Meta-Analysis."
+type: "article"
+author:  
+  - name: Laura Young
+    url: https://www.sowi.uni-mannheim.de/keusch/team/academic-staff-members/young-laura/
+    affiliation: University of Mannheim, Germany
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation: University of Cologne, Germany
+  - name: Maite Azabal-Gallego
+    affiliation: University of the Basque Country, Spain
+year: "Accepted"
+publication: "The European Journal of Psychology Applied to Legal Context"
+# doi: "https://doi.org/10.1177/00111287231163100"
+# materials: "https://osf.io/2zts4/"
+# postprint: "https://osf.io/as9u7_v1"
+toc: false
+categories:
+  - meta-analysis
+  - systematic review
+  - PTSD
+---
+
+## Citation (APA 7)
+
+> Young, L., Trinidad, A., & Azabal-Gallego, M. (Accepted). PTSD Prevalence in US Prisons: A Systematic Review and Meta-Analysis. *The European Journal of Psychology Applied to Legal Contextl*
+
+## Abstract
+This study aims to update the evidence on post-traumatic stress disorder (PTSD) prevalence in US prisons and jails by adopting part of the methodology from a prominent systematic review, we specially pay attention to Open Science values, such as transparency and reproducibility for future research updates. Assisted by ASReview, 36,052 papers from six databases were screened, followed by full-text reviews by two independent reviewers. Only studies using validated diagnostic instruments to assess PTSD in random samples of general prison or jail populations in the US between 1980 and 2023 were included. Of the initial 221 studies selected for an in-depth full-text screening, ten studies, with a combined sample size of 4,016 participants, met the inclusion criteria—four more than the original review.
+Meta-analyses were conducted to estimate pooled prevalence rates and evaluate heterogeneity and bias. The point prevalence of PTSD was 16% for men and 32% for women, while lifetime prevalence was 38% for men and 45% for women. Despite restricting the analysis to one country and applying stringent inclusion criteria, high between-study heterogeneity persists, indicating the need for caution in interpreting and generalizing the results.
+
