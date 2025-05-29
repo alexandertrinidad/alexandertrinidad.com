@@ -25,7 +25,7 @@ categories:
 
 ## Citation (APA 7)
 
-> Young, L., Trinidad, A., & Azabal-Gallego, M. (Accepted). PTSD Prevalence in US Prisons: A Systematic Review and Meta-Analysis. *The European Journal of Psychology Applied to Legal Contextl*
+> Young, L., Trinidad, A., & Azabal-Gallego, M. (Accepted). PTSD Prevalence in US Prisons: A Systematic Review and Meta-Analysis. *The European Journal of Psychology Applied to Legal Context*
 
 ## Abstract
 This study aims to update the evidence on post-traumatic stress disorder (PTSD) prevalence in US prisons and jails by adopting part of the methodology from a prominent systematic review, we specially pay attention to Open Science values, such as transparency and reproducibility for future research updates. Assisted by ASReview, 36,052 papers from six databases were screened, followed by full-text reviews by two independent reviewers. Only studies using validated diagnostic instruments to assess PTSD in random samples of general prison or jail populations in the US between 1980 and 2023 were included. Of the initial 221 studies selected for an in-depth full-text screening, ten studies, with a combined sample size of 4,016 participants, met the inclusion criteria—four more than the original review.
