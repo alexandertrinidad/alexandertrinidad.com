@@ -19,14 +19,15 @@ website:
     search: true
     pinned: true
     left:
-      - href: index.qmd
-        text: Home
         
       - href: about.qmd
         text: About
         
       - href: publications.qmd
         text: Publications
+
+      - href: service.qmd
+        text: Service
 
     right:
       - text: "![](images/ri--bluesky-fill.svg)"
