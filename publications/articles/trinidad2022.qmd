@@ -16,8 +16,8 @@ author:
     affiliation: University of the Basque Country, Spain
 year: "2022"
 publication: "Environment and Behavior"
-doi: "https://doi.org/10.1177/00139165211060521"
-pdf: "files/trinidad_2022_juv_met.pdf"
+# doi: "https://doi.org/10.1177/00139165211060521"
+# pdf: "files/trinidad_2022_juv_met.pdf"
 toc: false
 categories:
   - juvenile delinquency
@@ -27,9 +27,12 @@ categories:
   - article
 ---
 
+[![](https://img.shields.io/badge/Final_Version-Published_Version-blue)](https://doi.org/10.1177/00139165211060521)
+[![](https://img.shields.io/badge/PDF-Green_Open_Access_Version-darkgreen)](files/trinidad_2022_juv_met.pdff)
+
 ## Citation (APA 7)
 
-> Trinidad, A., San Juan, C., & Vozmediano, L. (2022). Environmental Conditions Associated With Youth Delinquency Events: A Temporal, Meteorological, and Contextual Perspective. *Environment and Behavior, 54*(3), 629-654. https://doi.org/10.1177/00139165211060521
+> Trinidad, A., San Juan, C., & Vozmediano, L. (2022). Environmental Conditions Associated With Youth Delinquency Events: A Temporal, Meteorological, and Contextual Perspective. *Environment and Behavior, 54*(3), 629-654. <https://doi.org/10.1177/00139165211060521>
 
 
 ## Abstract
