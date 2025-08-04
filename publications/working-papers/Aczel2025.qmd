@@ -1,0 +1,31 @@
+---
+title: "Investigating the analytical robustness of the social and behavioural sciences"
+type: "working-papers"
+author:  
+  - name: Balazs Aczel
+    url: https://metasciencelab.elte.hu/members/balazs-aczel/
+    orcid: 0000-0001-9364-4988
+    affiliation: ELTE University, Hungary
+  - name: et al.
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+  - name: et al.
+
+year: "2025"
+# publication: ""
+# doi: ""
+# preprint: 
+# materials: "https://osf.io/q5h2c/?view_only="
+toc: false
+categories:
+  - meta-science 
+  - multi-analyst
+  - working paper
+---
+
+<!-- ## Citation (APA 7) -->
+
+
+
+<!-- ## Abstract -->
