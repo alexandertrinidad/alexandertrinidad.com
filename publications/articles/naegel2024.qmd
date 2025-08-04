@@ -12,13 +12,14 @@ author:
     affiliation: University of Cologne, Germany
 year: "2024"
 publication: "Kriminologie - Das Online-Journal | Criminology - The Online Journal"
-doi: "https://doi.org/10.18716/ojs/krimoj/2024.4.7"
+# doi: "https://doi.org/10.18716/ojs/krimoj/2024.4.7"
 toc: false
 categories:
   - open science
   - criminology
   - meta-science
 ---
+[![](https://img.shields.io/badge/Final_Version-Published_Version_OA-blue)](https://doi.org/10.18716/ojs/krimoj/2024.4.7)
 
 ## Citation (APA 7)
 
