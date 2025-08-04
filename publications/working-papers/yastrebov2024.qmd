@@ -1,5 +1,5 @@
 ---
-title: "Trends in Public Crime Concerns in Germany: A Bounding Analysis of Periodic Change"
+title: "A Bounding Approach to Age–Period–Cohort Analysis: A Demonstration Using Public Crime Concerns in Germany"
 type: "working-papers"
 author:  
   - name: Gordey Yastrebov
@@ -16,8 +16,8 @@ author:
     affiliation: University of Cologne, Germany
 year: "2024"
 publication: "SocArXiv"
-doi: "https://doi.org/10.31235/osf.io/7t8ds"
-preprint: "https://osf.io/preprints/socarxiv/7t8ds_v1"
+# doi: "https://doi.org/10.31235/osf.io/7t8ds_v2"
+# preprint: "https://doi.org/10.31235/osf.io/7t8ds_v2"
 toc: false
 categories:
   - APC Analysis
@@ -25,9 +25,11 @@ categories:
   - working paper
 ---
 
+[![](https://img.shields.io/badge/PDF-Preprint-darkgreen)](https://doi.org/10.31235/osf.io/7t8ds_v2)
+
 ## Citation (APA 7)
 
-> Yastrebov, G., Trinidad, A., & Leopold, T. (2024). Trends in Public Crime Concerns in Germany: A Bounding Analysis of Periodic Change. *SocArXiv*.
+> Yastrebov, G., Trinidad, A., & Leopold, T. (2024). Trends in Public Crime Concerns in Germany: A Bounding Analysis of Periodic Change. *SocArXiv*. <https://doi.org/10.31235/osf.io/7t8ds_v2>
 
 
 ## Abstract
