@@ -92,16 +92,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../service.html"> 
+<span class="menu-text">Service</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -203,14 +203,6 @@ ul.task-list li input[type="checkbox"] {
       
   
     
-    <div>
-    <div class="quarto-title-meta-heading">Doi</div>
-    <div class="quarto-title-meta-contents">
-      <p class="doi">
-        <a href="https://doi.org/https://doi.org/10.1177/0011128720916141">https://doi.org/10.1177/0011128720916141</a>
-      </p>
-    </div>
-  </div>
   </div>
   
 
@@ -218,10 +210,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><a href="https://doi.org/10.1177/0011128720916141"><img src="https://img.shields.io/badge/Final_Version-Published_Version-blue.png" class="img-fluid"></a></p>
 <section id="citation-apa-7" class="level2">
 <h2 class="anchored" data-anchor-id="citation-apa-7">Citation (APA 7)</h2>
 <blockquote class="blockquote">
-<p>Trinidad, A., Vozmediano, L., Ocáriz, E., &amp; San-Juan, C. (2021). “Taking a Walk on the Wild Side”: Exploring Residence-to-Crime in Juveniles. <em>Crime &amp; Delinquency, 67</em>(1), 58-81. https://doi.org/10.1177/0011128720916141</p>
+<p>Trinidad, A., Vozmediano, L., Ocáriz, E., &amp; San-Juan, C. (2021). “Taking a Walk on the Wild Side”: Exploring Residence-to-Crime in Juveniles. <em>Crime &amp; Delinquency, 67</em>(1), 58-81. <a href="https://doi.org/10.1177/0011128720916141" class="uri">https://doi.org/10.1177/0011128720916141</a></p>
 </blockquote>
 </section>
 <section id="abstract" class="level2">
@@ -324,7 +317,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/www\.alexandertrinidad\.com");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
