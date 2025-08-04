@@ -17,7 +17,7 @@ author:
 
 year: "2019"
 publication: "International Journal of Law, Crime and Justice"
-doi: "https://doi.org/10.1016/j.ijlcj.2019.100347"
+# doi: "https://doi.org/10.1016/j.ijlcj.2019.100347"
 toc: false
 categories:
   - juvenile delinquency
@@ -26,9 +26,11 @@ categories:
   - article
 ---
 
+[![](https://img.shields.io/badge/Final_Version-Published_Version-blue)](https://doi.org/10.1016/j.ijlcj.2019.100347)
+
 ## Citation (APA 7)
 
-> Trinidad, A., Vozmediano, L., & San-Juan, C. (2019). “Jumping at the opportunity”: The role of situational and opportunity factors in juvenile delinquency in Southern Europe. *International Journal of Law, Crime and Justice, 59*, 100347. https://doi.org/10.1016/j.ijlcj.2019.100347
+> Trinidad, A., Vozmediano, L., & San-Juan, C. (2019). “Jumping at the opportunity”: The role of situational and opportunity factors in juvenile delinquency in Southern Europe. *International Journal of Law, Crime and Justice, 59*, 100347. <https://doi.org/10.1016/j.ijlcj.2019.100347>
 
 
 ## Abstract
