@@ -17,8 +17,8 @@ author:
 
 year: "2019"
 publication: "Revista Criminalidad"
-doi: "https://doi.org/10.47741/17943108.55"
-pdf: http://www.scielo.org.co/pdf/crim/v61n2/1794-3108-crim-61-02-00009.pdf 
+# doi: "https://doi.org/10.47741/17943108.55"
+# pdf: http://www.scielo.org.co/pdf/crim/v61n2/1794-3108-crim-61-02-00009.pdf 
 toc: false
 categories:
   - juvenile delinquency
@@ -26,6 +26,9 @@ categories:
   - crime patterns
   - article
 ---
+
+
+[![](https://img.shields.io/badge/Final_Version-Published_Version_OA-blue)](http://www.scielo.org.co/pdf/crim/v61n2/1794-3108-crim-61-02-00009.pdf )
 
 ## Citation (APA 7)
 
