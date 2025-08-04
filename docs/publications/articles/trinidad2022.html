@@ -91,16 +91,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../service.html"> 
+<span class="menu-text">Service</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -195,14 +195,6 @@ ul.task-list li input[type="checkbox"] {
       
   
     
-    <div>
-    <div class="quarto-title-meta-heading">Doi</div>
-    <div class="quarto-title-meta-contents">
-      <p class="doi">
-        <a href="https://doi.org/https://doi.org/10.1177/00139165211060521">https://doi.org/10.1177/00139165211060521</a>
-      </p>
-    </div>
-  </div>
   </div>
   
 
@@ -210,10 +202,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><a href="https://doi.org/10.1177/00139165211060521"><img src="https://img.shields.io/badge/Final_Version-Published_Version-blue.png" class="img-fluid"></a> <a href="files/trinidad_2022_juv_met.pdff"><img src="https://img.shields.io/badge/PDF-Green_Open_Access_Version-darkgreen.png" class="img-fluid"></a></p>
 <section id="citation-apa-7" class="level2">
 <h2 class="anchored" data-anchor-id="citation-apa-7">Citation (APA 7)</h2>
 <blockquote class="blockquote">
-<p>Trinidad, A., San Juan, C., &amp; Vozmediano, L. (2022). Environmental Conditions Associated With Youth Delinquency Events: A Temporal, Meteorological, and Contextual Perspective. <em>Environment and Behavior, 54</em>(3), 629-654. https://doi.org/10.1177/00139165211060521</p>
+<p>Trinidad, A., San Juan, C., &amp; Vozmediano, L. (2022). Environmental Conditions Associated With Youth Delinquency Events: A Temporal, Meteorological, and Contextual Perspective. <em>Environment and Behavior, 54</em>(3), 629-654. <a href="https://doi.org/10.1177/00139165211060521" class="uri">https://doi.org/10.1177/00139165211060521</a></p>
 </blockquote>
 </section>
 <section id="abstract" class="level2">
@@ -316,7 +309,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/www\.alexandertrinidad\.com");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
