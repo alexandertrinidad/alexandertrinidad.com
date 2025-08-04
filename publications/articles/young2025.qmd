@@ -11,21 +11,24 @@ author:
     affiliation: University of Cologne, Germany
   - name: Maite Azabal-Gallego
     affiliation: University of the Basque Country, Spain
-year: "Accepted"
+year: "2025"
 publication: "The European Journal of Psychology Applied to Legal Context"
-# doi: "https://doi.org/10.1177/00111287231163100"
-# materials: "https://osf.io/2zts4/"
+# doi: "https://doi.org/10.5093/ejpalc2025a7"
+# materials: "https://osf.io/tp3ba/"
 # postprint: "https://osf.io/as9u7_v1"
 toc: false
 categories:
   - meta-analysis
   - systematic review
-  - PTSD
 ---
+
+
+[![](https://img.shields.io/badge/Final_Version-Published_Version_OA-blue)](https://journals.copmadrid.org/ejpalc/archivos/1889-1861-ejpalc-17-2-0073.pdf)
+[![](https://img.shields.io/badge/Documents-Supplementary_Materials-darkred)](https://osf.io/tp3ba/) 
 
 ## Citation (APA 7)
 
-> Young, L., Trinidad, A., & Azabal-Gallego, M. (Accepted). PTSD Prevalence in US Prisons: A Systematic Review and Meta-Analysis. *The European Journal of Psychology Applied to Legal Context*
+> Young, L., Trinidad, A., & Azabal-Gallego, M. (Accepted). PTSD Prevalence in US Prisons: A Systematic Review and Meta-Analysis. *The European Journal of Psychology Applied to Legal Context, 17*(2), 73-87. <https://doi.org/10.5093/ejpalc2025a7>
 
 ## Abstract
 This study aims to update the evidence on post-traumatic stress disorder (PTSD) prevalence in US prisons and jails by adopting part of the methodology from a prominent systematic review, we specially pay attention to Open Science values, such as transparency and reproducibility for future research updates. Assisted by ASReview, 36,052 papers from six databases were screened, followed by full-text reviews by two independent reviewers. Only studies using validated diagnostic instruments to assess PTSD in random samples of general prison or jail populations in the US between 1980 and 2023 were included. Of the initial 221 studies selected for an in-depth full-text screening, ten studies, with a combined sample size of 4,016 participants, met the inclusion criteria—four more than the original review.
