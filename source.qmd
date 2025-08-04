@@ -4,15 +4,17 @@ pagetitle: "Syntax Source"
 
 ## Acknowledgments & Code Inspirations
 
-Much of the syntax used for my website has been inspired by or adapted from these sources, and I really appreciate the authors for sharing their code.
+Much of the syntax used for my website has been inspired by or adapted from these sources. I really appreciate the authors for sharing their code.
 ```{r sources, echo=FALSE, warning=FALSE, resize.height='asis'}
 library(knitr)
 
 kable(data.frame("Source" = c("[Andrew Heiss](https://www.andrewheiss.com/)", 
                    "[John Paul Helveston](https://www.jhelvy.com/)",
-                   "[Affective Communication & Computing Lab](https://affcom.ku.edu/)"),
+                   "[Affective Communication & Computing Lab](https://affcom.ku.edu/)",
+                   "[Jose Pina-Sánchez](https://jmpinasanchez.github.io/)"),
                  "Syntax" = c("[GitHub](https://github.com/andrewheiss/ath-quarto)",
                               "[GitHub](https://github.com/jhelvy/jhelvy_quarto)",
-                              "[GitHub](https://github.com/jmgirard/affcomlab)")))
+                              "[GitHub](https://github.com/jmgirard/affcomlab)",
+                              "[GitHub](https://github.com/jmpinasanchez/jmpinasanchez.github.io)")))
 ```
 
