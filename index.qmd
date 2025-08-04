@@ -21,9 +21,6 @@ about:
     - text: "![](images/academicons--cv.svg)"
       href: files/cv.pdf
 
-      
-      
-      
 ---
 
 ::: {#hero-heading}
