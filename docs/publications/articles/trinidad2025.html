@@ -92,16 +92,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../service.html"> 
+<span class="menu-text">Service</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -203,14 +203,6 @@ ul.task-list li input[type="checkbox"] {
       
   
     
-    <div>
-    <div class="quarto-title-meta-heading">Doi</div>
-    <div class="quarto-title-meta-contents">
-      <p class="doi">
-        <a href="https://doi.org/https://doi.org/10.1089/cyber.2024.0476">https://doi.org/10.1089/cyber.2024.0476</a>
-      </p>
-    </div>
-  </div>
   </div>
   
 
@@ -218,10 +210,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><a href="https://doi.org/10.1089/cyber.2024.0476"><img src="https://img.shields.io/badge/Final_Version-Published_Version-blue.png" class="img-fluid"></a> <a href="../../files/trinidad_prev_cyber_foc_2025.pdf"><img src="https://img.shields.io/badge/PDF-Green_Open_Access_Version-darkgreen.png" class="img-fluid"></a> <a href="https://osf.io/rfnst/"><img src="https://img.shields.io/badge/Documents-Supplementary_Materials-darkred.png" class="img-fluid"></a> <a href="https://github.com/alexandertrinidad/trinidad_2025_negative_online_experience"><img src="https://img.shields.io/badge/Code-R-purple.png" class="img-fluid"></a></p>
 <section id="citation-apa-7" class="level2">
 <h2 class="anchored" data-anchor-id="citation-apa-7">Citation (APA 7)</h2>
 <blockquote class="blockquote">
-<p>Trinidad, A., Marcos, V., Montes, A., &amp; Seijo, D. (2025). Negative online experiences, worry, and risk perception among adolescents: Gender differences and implications for cybercrime awareness. <em>Cyberpsychology, Behavior, and Social Networking, 28</em>(5), https://doi.org/10.1089/cyber.2024.0476</p>
+<p>Trinidad, A., Marcos, V., Montes, A., &amp; Seijo, D. (2025). Negative online experiences, worry, and risk perception among adolescents: Gender differences and implications for cybercrime awareness. <em>Cyberpsychology, Behavior, and Social Networking, 28</em>(5), <a href="https://doi.org/10.1089/cyber.2024.0476" class="uri">https://doi.org/10.1089/cyber.2024.0476</a></p>
 </blockquote>
 </section>
 <section id="abstract" class="level2">
@@ -324,7 +317,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/www\.alexandertrinidad\.com");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
