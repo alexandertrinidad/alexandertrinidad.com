@@ -20,8 +20,8 @@ author:
 
 year: "Accepted"
 publication: "Security Journal"
-materials: "https://osf.io/4j5t9/"
-preprint: "https://doi.org/10.31219/osf.io/m2zyc"
+# materials: "https://osf.io/4j5t9/"
+# preprint: "https://doi.org/10.31219/osf.io/m2zyc"
 toc: false
 categories:
   - crime perceptions
@@ -29,9 +29,13 @@ categories:
   - CPTED
 ---
 
+[![](https://img.shields.io/badge/Final_Version-Published_Version-blue)](https://doi.org/10.1057/s41284-025-00499-9)
+[![](https://img.shields.io/badge/PDF-Preprint-darkgreen)](https://doi.org/10.31219/osf.io/m2zyc)
+[![](https://img.shields.io/badge/Documents-Supplementary_Materials-darkred)](https://osf.io/4j5t9/)
+
 ## Citation (APA 7)
 
-> Vozmediano, L., Subiza-Pérez, M., San Juan, C., & Trinidad, A. (Accepted). Comparing Safety Perceptions and Active Mobility in Two Urban Settings: A Case Study. *Security Journal*
+> Vozmediano, L., Subiza-Pérez, M., San Juan, C., & Trinidad, A. (Accepted). Comparing Safety Perceptions and Active Mobility in Two Urban Settings: A Case Study. *Security Journal, 38*(39).<https://doi.org/10.1057/s41284-025-00499-9>
 
 
 ## Abstract
