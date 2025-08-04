@@ -78,16 +78,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
 <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./service.html"> 
+<span class="menu-text">Service</span></a>
   </li>  
 </ul>
 <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -130,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content" id="quarto-document-content"><section id="acknowledgments-code-inspirations" class="level2"><h2 class="anchored" data-anchor-id="acknowledgments-code-inspirations">Acknowledgments &amp; Code Inspirations</h2>
-<p>Much of the syntax used for my website has been inspired by or adapted from these sources, and I really appreciate the authors for sharing their code.</p>
+<p>Much of the syntax used for my website has been inspired by or adapted from these sources. I really appreciate the authors for sharing their code.</p>
 <div class="cell">
 <div class="cell-output-display">
 <table class="caption-top table table-sm table-striped small">
@@ -150,6 +150,10 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td style="text-align: left;"><a href="https://affcom.ku.edu/">Affective Communication &amp; Computing Lab</a></td>
 <td style="text-align: left;"><a href="https://github.com/jmgirard/affcomlab">GitHub</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><a href="https://jmpinasanchez.github.io/">Jose Pina-Sánchez</a></td>
+<td style="text-align: left;"><a href="https://github.com/jmpinasanchez/jmpinasanchez.github.io">GitHub</a></td>
 </tr>
 </tbody>
 </table>
@@ -249,7 +253,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/www\.alexandertrinidad\.com");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
