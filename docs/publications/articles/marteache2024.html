@@ -90,16 +90,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../service.html"> 
+<span class="menu-text">Service</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -184,14 +184,6 @@ ul.task-list li input[type="checkbox"] {
       
   
     
-    <div>
-    <div class="quarto-title-meta-heading">Doi</div>
-    <div class="quarto-title-meta-contents">
-      <p class="doi">
-        <a href="https://doi.org/https://doi.org/10.1177/00111287231163100">https://doi.org/10.1177/00111287231163100</a>
-      </p>
-    </div>
-  </div>
   </div>
   
 
@@ -199,10 +191,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><a href="https://doi.org/10.1177/00111287231163100"><img src="https://img.shields.io/badge/Final_Version-Published_Version-blue.png" class="img-fluid"></a> <a href="https://osf.io/as9u7_v1"><img src="https://img.shields.io/badge/PDF-Green_Open_Access_Version-darkgreen.png" class="img-fluid"></a> <a href="https://osf.io/2zts4/"><img src="https://img.shields.io/badge/Documents-Supplementary_Materials-darkred.png" class="img-fluid"></a></p>
 <section id="citation-apa-7" class="level2">
 <h2 class="anchored" data-anchor-id="citation-apa-7">Citation (APA 7)</h2>
 <blockquote class="blockquote">
-<p>Marteache, N., &amp; Trinidad, A. (2024). Theft Victimization in Urban Settings: Comparison of Tourist and Resident Case Profiles. <em>Crime &amp; Delinquency, 70</em>(11), 3102-3126.https://doi.org/10.1177/00111287231163100</p>
+<p>Marteache, N., &amp; Trinidad, A. (2024). Theft Victimization in Urban Settings: Comparison of Tourist and Resident Case Profiles. <em>Crime &amp; Delinquency, 70</em>(11), 3102-3126.<a href="https://doi.org/10.1177/00111287231163100" class="uri">https://doi.org/10.1177/00111287231163100</a></p>
 </blockquote>
 </section>
 <section id="abstract" class="level2">
@@ -305,7 +298,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/www\.alexandertrinidad\.com");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
