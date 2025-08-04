@@ -24,7 +24,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a postdoctoral researcher and lecturer at the Department of Sociology and Social Psychology [(DSS)](https://dss.uni-koeln.de/en) at the University of Cologne. At the [Chair for Methods of Empirical Social Research](https://dss.uni-koeln.de/en/department/professors/methods-of-empirical-social-research-prof-dr-thomas-leopold), I explore the complexities of social behavior through theory-based and data-driven insights. I am also a research fellow at the Crime Events in Context research group at the Netherlands Institute for the Study of Crime and Law Enforcement [(NSCR)](https://nscr.nl/en/) and at the Applied Criminology and Environmental Psychology [(Crim-Ap)](https://www.ehu.eus/en/web/dms/equipo).
+I am a postdoctoral researcher and lecturer at the Department of Sociology and Social Psychology [(DSS)](https://dss.uni-koeln.de/en) at the University of Cologne. At the [Chair of Methods of Empirical Social Research](https://dss.uni-koeln.de/en/department/professors/methods-of-empirical-social-research-prof-dr-thomas-leopold), I explore the complexities of social behavior through theory-based and data-driven insights. I am also a research fellow at the Crime Events in Context research group at the Netherlands Institute for the Study of Crime and Law Enforcement [(NSCR)](https://nscr.nl/en/) and at the Applied Criminology and Environmental Psychology [(Crim-Ap)](https://www.ehu.eus/en/web/dms/equipo).
 
 
 :::
