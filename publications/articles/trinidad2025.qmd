@@ -18,10 +18,11 @@ author:
     affiliation: University of Santiago de Compostela, Spain  
 year: "2025"
 publication: "Cyberpsychology, Behavior, and Social Networking"
-doi: "https://doi.org/10.1089/cyber.2024.0476"
-materials: "https://osf.io/rfnst/"
-# postprint: 
-pdf: "files/trinidad_prev_cyber_foc_2025.pdf"
+# doi: "https://doi.org/10.1089/cyber.2024.0476"
+# materials: "https://osf.io/rfnst/"
+# postprint:
+# pdf: "files/trinidad_prev_cyber_foc_2025.pdf"
+
 toc: false
 categories:
   - crime perceptions
@@ -30,9 +31,13 @@ categories:
   - article
 ---
 
+[![](https://img.shields.io/badge/Final_Version-Published_Version-blue)](https://doi.org/10.1089/cyber.2024.0476)
+[![](https://img.shields.io/badge/PDF-Green_Open_Access_Version-darkgreen)](/files/trinidad_prev_cyber_foc_2025.pdf) [![](https://img.shields.io/badge/Documents-Supplementary_Materials-darkred)](https://osf.io/rfnst/) [![](https://img.shields.io/badge/Code-R-purple)](https://github.com/alexandertrinidad/trinidad_2025_negative_online_experience)
+
 ## Citation (APA 7)
 
-> Trinidad, A., Marcos, V., Montes, A., & Seijo, D. (2025). Negative online experiences, worry, and risk perception among adolescents: Gender differences and implications for cybercrime awareness. *Cyberpsychology, Behavior, and Social Networking, 28*(5), https://doi.org/10.1089/cyber.2024.0476
+> Trinidad, A., Marcos, V., Montes, A., & Seijo, D. (2025). Negative online experiences, worry, and risk perception among adolescents: Gender differences and implications for cybercrime awareness. *Cyberpsychology, Behavior, and Social Networking, 28*(5), <https://doi.org/10.1089/cyber.2024.0476>
+
 
 
 ## Abstract
