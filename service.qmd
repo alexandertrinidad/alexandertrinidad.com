@@ -1,0 +1,18 @@
+---
+pagetitle: "Service"
+---
+
+## Editorial Board
+I serve as Associate Editor for the [*Campbell Systematic Reviews* (Crime and Justice Group)](https://onlinelibrary.wiley.com/page/journal/18911803/homepage/editorial-board) and the [*International E-Journal of Criminal Sciences*](https://ojs.ehu.eus/index.php/inecs/about/editorialTeam). I am also a member of the editorial board of [*Evidence Base: Criminal Justice Research, Policy & Action*](https://www.tandfonline.com/journals/rebj20/about-this-journal#editorial-board) (recently established).
+
+## Open Science
+
+During my postdoctoral stage at the Netherlands Institute for the Study of Crime and Law Enforcements (NSCR), and partly at the University of Cologne, I was part of the [*NSC-R Workshop coordination Team*](https://nscrweb.netlify.app/)—an online workshop series intended to support researchers in building R programming skills while encouraging the adoption of open science principles. 
+
+In 2024, together with [Dr Christof Nägel](https://christofnaegel.netlify.app/), I co-organised the two days in-person workshop on [Open Science and Open Data in European Criminological Research](https://iss-wiso.uni-koeln.de/sites/soziologie/user_upload/Call_for_Papers_Crim_ECONtr_ENOC_UzK.pdf) at the University of Cologne.
+[![](https://img.shields.io/badge/Paper-Proceedings-yellow)](https://doi.org/10.18716/ojs/krimoj/2024.4.7)
+
+## PhD Thesis Examined
+- [Dr Verónica Marcos](https://scholar.google.com/citations?user=UO7GoMgAAAAJ&hl=es) (October, 2023).Victimización en jóvenes en contextos físicos y virtuales. Promoción de la seguridad en el ámbito educativo. Ph.D. thesis, University of Santiago de Compostela, Spain [![](https://img.shields.io/badge/Document-Thesis-yellow)](https://minerva.usc.gal/entities/publication/d11a2ca9-c73d-4b8f-a4f4-fffbce3674a7)
+
+
