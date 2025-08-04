@@ -92,16 +92,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../service.html"> 
+<span class="menu-text">Service</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -209,10 +209,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><a href="https://doi.org/10.1057/s41284-025-00499-9"><img src="https://img.shields.io/badge/Final_Version-Published_Version-blue.png" class="img-fluid"></a> <a href="https://doi.org/10.31219/osf.io/m2zyc"><img src="https://img.shields.io/badge/PDF-Preprint-darkgreen.png" class="img-fluid"></a> <a href="https://osf.io/4j5t9/"><img src="https://img.shields.io/badge/Documents-Supplementary_Materials-darkred.png" class="img-fluid"></a></p>
 <section id="citation-apa-7" class="level2">
 <h2 class="anchored" data-anchor-id="citation-apa-7">Citation (APA 7)</h2>
 <blockquote class="blockquote">
-<p>Vozmediano, L., Subiza-Pérez, M., San Juan, C., &amp; Trinidad, A. (Accepted). Comparing Safety Perceptions and Active Mobility in Two Urban Settings: A Case Study. <em>Security Journal</em></p>
+<p>Vozmediano, L., Subiza-Pérez, M., San Juan, C., &amp; Trinidad, A. (Accepted). Comparing Safety Perceptions and Active Mobility in Two Urban Settings: A Case Study. <em>Security Journal, 38</em>(39).<a href="https://doi.org/10.1057/s41284-025-00499-9" class="uri">https://doi.org/10.1057/s41284-025-00499-9</a></p>
 </blockquote>
 </section>
 <section id="abstract" class="level2">
@@ -315,7 +316,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/www\.alexandertrinidad\.com");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
