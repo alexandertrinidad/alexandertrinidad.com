@@ -13,13 +13,15 @@ author:
 
 year: "2014"
 publication: "International E-Journal of Criminal Sciences"
-pdf: "https://ojs.ehu.eus/index.php/inecs/article/view/13228"
+# pdf: "https://ojs.ehu.eus/index.php/inecs/article/view/13228"
 toc: false
 categories:
   - juvenile delinquency
   - official data
   - article
 ---
+
+[![](https://img.shields.io/badge/Final_Version-Published_Version_OA-blue)](https://ojs.ehu.eus/index.php/inecs/article/view/13228)
 
 ## Citation (APA 7)
 
