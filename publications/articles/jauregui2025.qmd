@@ -1,0 +1,36 @@
+---
+title: "Women’s safety perception before and after the reconstruction of an urban area: A mixed method research"
+type: "article"
+author:  
+  - name: Carlota Jauregui
+    url: https://ekoizpen-zientifikoa.ehu.eus/investigadores/129254/detalle 
+    orcid: 0000-0003-4968-8670
+    affiliation: University of the Basque Country, Spain
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation:  University of Cologne, Germany
+  - name: Laura Vozmediano
+    url: https://www.ehu.eus/en/web/dms/laura-vozmediano-sanz
+    orcid: 0000-0003-3239-8327
+    affiliation: University of the Basque Country, Spain
+    
+year: "In press"
+publication: "Violence Against Women"
+# doi: "https://doi.org/10.31235/osf.io/ztrkj"
+# preprint: "https://doi.org/10.31235/osf.io/ztrkj"
+toc: false
+categories:
+  - crime perceptions
+  - CPTED
+  - mixed methods 
+---
+[![](https://img.shields.io/badge/PDF-Preprint-darkgreen)](https://doi.org/10.31235/osf.io/ztrkj)
+
+## Citation (APA 7)
+
+> Jauregui, C., Trinidad, A., & Vozmediano, L. (In press). Women’s safety perception before and after the reconstruction of an urban area: A mixed method research. *Violence Against Women*. Preprint: https://doi.org/10.31235/osf.io/ztrkj
+
+
+## Abstract
+This study addresses the heightened fear of crime experienced by women, which often leads to the adoption of self-protective behaviors that can negatively impact their quality of life. Focusing on a hot-spot in the city of Donostia-San Sebastián undergoing redesign, the research is conducted in two phases: pre-intervention and post-intervention. Utilizing a mixed-methods approach, the study employs systematic observation using the SUE tool, surveys, and Safety Walks to gather data. Findings indicate a high prevalence and frequency of fear of crime among female participants, with a significant reduction in fear observed post-intervention. Consistent with the Crime Prevention through Environmental Design (CPTED) framework, factors such as physical design, area activity, and user profiles are identified as key determinants of women's insecurity. Notable improvements in both the physical and social characteristics of the urban environment are evident between the two phases. The consistency of results across the three methodological tools reinforces the validity and reliability of the findings, highlighting the potential of mixed methodologies. Overall, the study suggests that urban redesign effectively reduces fear of crime among women, offering insights for urban planning and policy-making to create safer, more inclusive public spaces.
