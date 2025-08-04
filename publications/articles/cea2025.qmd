@@ -1,0 +1,43 @@
+---
+title: "Forensic Psychological Harm in Victims of Child Sexual Abuse: A Meta-analytic Review"
+type: "article"
+author:  
+  - name: Blanca Cea
+    url: https://www.usc.gal/en/department/political-science-and-sociology/directory/blanca-cea-rios-634098
+    orcid: 0000-0001-9905-2780
+    affiliation: University of Santiago de Compostela, Spain
+  - name: Álvaro Montes
+    url: https://www.usc.gal/en/department/political-science-and-sociology/directory/alvaro-montes-campos-632350
+    orcid: 0000-0003-4370-4465
+    affiliation: University of Santiago de Compostela, Spain
+  - name: Alex Trinidad
+    url: https://www.alexandertrinidad.com 
+    orcid: 0000-0002-0762-5367
+    affiliation: University of Cologne, Germany
+  - name: Ramón Arce
+    affiliation: University of Santiago de Compostela, Spain
+    url: https://www.usc.gal/en/department/political-science-and-sociology/directory/ramon-arce-fernandez-223
+    orcid: 0000-0002-5622-3022
+year: "2025"
+publication: "The European Journal of Psychology Applied to Legal Context"
+# doi: "https://doi.org/10.5093/ejpalc2025a10"
+# materials: ""
+# postprint: ""
+toc: false
+categories:
+  - meta-analysis
+  - systematic review
+  - csa
+  - victimization
+---
+
+[![](https://img.shields.io/badge/Final_Version-Published_Version_OA-blue)](https://journals.copmadrid.org/ejpalc/archivos/1889-1861-ejpalc-17-2-0111.pdf)
+
+
+## Citation (APA 7)
+
+> Cea, B., Montes, Á., Trinidad, A., & Arce, R. (2025). Forensic Psychological Harm in Victims of Child Sexual Abuse: A Meta-analytic Review. *The European Journal of Psychology Applied to Legal Context, 17*(2), 111 - 129. <https://doi.org/10.5093/ejpalc2025a10>
+
+## Abstract
+Background/aim: In child sexual abuse (CSA) cases, the forensic evaluation of psychological harm is crucial for substantiating victim testimony and informing compensation awards. Posttraumatic Stress Disorder (PTSD) is the primary diagnosis for assessing forensic harm, as it establishes the causal link between the harm and the CSA event. Thus, a meta-analysis was conducted to estimate the effect of CSA victimization on PTSD development and the probability of resulting psychological harm, and to determine the incremental harm attributable to CSA victimization. Method: A total of 126 primary studies were selected, yielding 195 effect sizes and a cumulative sample of 29,517 victims. Random effects psychometric meta-analyses were performed, correcting effect sizes for sampling error and criterion unreliability to obtain the true effect size (δ). Results: An overall large true effect size (δ = 0.93) was found between CSA victimization and PTSD outcomes. Given the heterogeneity of the studies, moderating variables were examined, revealing that female victims (δ = 0.99), intrafamilial abuse (δ = 1.68) and penetrative acts (δ = 1.23) were associated with significantly higher psychological harm attributable to CSA victimization than males (δ = 0.68), extrafamilial abuse (δ = 1.24) and non-penetrative sexual touching (δ = 1.01), respectively. The prevalence of PTSD diagnosis in CSA survivors was estimated at 33.95%. The incremental harm due to CSA victimization was estimated at 42.2% in general, with specific higher rates for intrafamilial abuse (64.3%) and for victims of penetration (54.4%). Conclusions: These findings provide robust evidence of the psychological harm (PTSD) resulting from CSA victimization and identify specific abuse characteristics that exacerbate such a harm. The judicial implications for the burden of proof are discussed and gold standards for civil compensation to victims are suggested as follows: a general gold standard of 42.2% for victims of CSA, and higher gold standards for victims of intrafamilial abuse (64.3%) and victims of penetration (54.4%).
+
