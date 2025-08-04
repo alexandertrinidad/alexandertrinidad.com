@@ -17,7 +17,7 @@ author:
 
 year: "2018"
 publication: "Crime Psychology Review"
-doi: "https://doi.org/10.1080/23744006.2019.1591693"
+# doi: "https://doi.org/10.1080/23744006.2019.1591693"
 toc: false
 categories:
   - juvenile delinquency
@@ -27,9 +27,11 @@ categories:
   - article
 ---
 
+[![](https://img.shields.io/badge/Final_Version-Published_Version-blue)](https://doi.org/10.1080/23744006.2019.1591693)
+
 ## Citation (APA 7)
 
-> Trinidad, A., Vozmediano, L., & San-Juan, C. (2018). Environmental factors in juvenile delinquency: A systematic review of the situational perspectives’ literature. *Crime Psychology Review, 4*(1), 45–71. https://doi.org/10.1080/23744006.2019.1591693
+> Trinidad, A., Vozmediano, L., & San-Juan, C. (2018). Environmental factors in juvenile delinquency: A systematic review of the situational perspectives’ literature. *Crime Psychology Review, 4*(1), 45–71. <https://doi.org/10.1080/23744006.2019.1591693>
 
 
 ## Abstract
