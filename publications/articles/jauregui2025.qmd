@@ -15,7 +15,7 @@ author:
     orcid: 0000-0003-3239-8327
     affiliation: University of the Basque Country, Spain
     
-year: "In press"
+year: "2025"
 publication: "Violence Against Women"
 # doi: "https://doi.org/10.31235/osf.io/ztrkj"
 # preprint: "https://doi.org/10.31235/osf.io/ztrkj"

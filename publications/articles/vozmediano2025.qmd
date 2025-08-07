@@ -18,7 +18,7 @@ author:
     orcid: 0000-0002-0762-5367
     affiliation:  University of Cologne, Germany
 
-year: "Accepted"
+year: "2025"
 publication: "Security Journal"
 # materials: "https://osf.io/4j5t9/"
 # preprint: "https://doi.org/10.31219/osf.io/m2zyc"
@@ -35,7 +35,7 @@ categories:
 
 ## Citation (APA 7)
 
-> Vozmediano, L., Subiza-Pérez, M., San Juan, C., & Trinidad, A. (Accepted). Comparing Safety Perceptions and Active Mobility in Two Urban Settings: A Case Study. *Security Journal, 38*(39).<https://doi.org/10.1057/s41284-025-00499-9>
+> Vozmediano, L., Subiza-Pérez, M., San Juan, C., & Trinidad, A. (2025). Comparing Safety Perceptions and Active Mobility in Two Urban Settings: A Case Study. *Security Journal, 38*(39).<https://doi.org/10.1057/s41284-025-00499-9>
 
 
 ## Abstract
