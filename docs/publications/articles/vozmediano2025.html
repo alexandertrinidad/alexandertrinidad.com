@@ -209,7 +209,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="https://doi.org/10.1057/s41284-025-00499-9"><img src="https://img.shields.io/badge/Final_Version-Published_Version-blue.png" class="img-fluid"></a> <a href="https://doi.org/10.31219/osf.io/m2zyc"><img src="https://img.shields.io/badge/PDF-Preprint-darkgreen.png" class="img-fluid"></a> <a href="https://osf.io/4j5t9/"><img src="https://img.shields.io/badge/Documents-Supplementary_Materials-darkred.png" class="img-fluid"></a></p>
+<p><a href="https://doi.org/10.1057/s41284-025-00499-9"><img src="https://img.shields.io/badge/Final_Version-Published_Version-blue.png" class="img-fluid"></a> <a href="../../files/vozmediano_2025_bilbo_foc_mobili.pdf"><img src="https://img.shields.io/badge/PDF-Green_Open_Access-darkgreen.png" class="img-fluid"></a> <a href="https://osf.io/4j5t9/"><img src="https://img.shields.io/badge/Documents-Supplementary_Materials-darkred.png" class="img-fluid"></a></p>
 <section id="citation-apa-7" class="level2">
 <h2 class="anchored" data-anchor-id="citation-apa-7">Citation (APA 7)</h2>
 <blockquote class="blockquote">
@@ -316,7 +316,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/www\.alexandertrinidad\.com");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
