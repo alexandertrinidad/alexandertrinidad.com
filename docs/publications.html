@@ -370,7 +370,7 @@ No matching items
 </div>
 <ul class="pub-list list">
 
-  <li data-index="0" data-categories="crime perceptions,CPTED,mixed methods" data-listing-file-modified-sort="1754195973347" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
+  <li data-index="0" data-categories="crime perceptions,CPTED,mixed methods" data-listing-file-modified-sort="1754592766866" data-listing-reading-time-sort="1" data-listing-word-count-sort="126">
     <span class="listing-title lead">Women’s safety perception before and after the reconstruction of an urban area: A mixed method research</span><br>
     <span class="listing-author">Carlota Jauregui, Alex Trinidad, Laura Vozmediano</span><br>
     <span class="listing-publication fst-italic ">Violence Against Women</span>
@@ -672,7 +672,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/www\.alexandertrinidad\.com");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

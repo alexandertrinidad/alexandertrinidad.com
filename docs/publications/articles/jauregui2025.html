@@ -200,16 +200,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="https://doi.org/10.31235/osf.io/ztrkj"><img src="https://img.shields.io/badge/PDF-Preprint-darkgreen.png" class="img-fluid"></a></p>
+<p><a href="https://doi.org/10.1177/10778012251362225"><img src="https://img.shields.io/badge/Final_Version-Published_Version-blue.png" class="img-fluid"></a> <a href="../../files/jauregui_2025_w_foc_donost_mix_met.pdf"><img src="https://img.shields.io/badge/PDF-Green%20Open%20Acccess-darkgreen.png" class="img-fluid"></a> <a href="https://osf.io/dxef2/"><img src="https://img.shields.io/badge/Documents-Supplementary_Materials-darkred.png" class="img-fluid"></a></p>
 <section id="citation-apa-7" class="level2">
 <h2 class="anchored" data-anchor-id="citation-apa-7">Citation (APA 7)</h2>
 <blockquote class="blockquote">
-<p>Jauregui, C., Trinidad, A., &amp; Vozmediano, L. (In press). Women’s safety perception before and after the reconstruction of an urban area: A mixed method research. <em>Violence Against Women</em>. Preprint: https://doi.org/10.31235/osf.io/ztrkj</p>
+<p>Jauregui, C., Trinidad, A., &amp; Vozmediano, L. (2025). Women’s safety perception before and after the reconstruction of an urban area: A mixed method research. <em>Violence Against Women. Online First</em>. <a href="https://doi.org/10.1177/10778012251362225" class="uri">https://doi.org/10.1177/10778012251362225</a></p>
 </blockquote>
 </section>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>This study addresses the heightened fear of crime experienced by women, which often leads to the adoption of self-protective behaviors that can negatively impact their quality of life. Focusing on a hot-spot in the city of Donostia-San Sebastián undergoing redesign, the research is conducted in two phases: pre-intervention and post-intervention. Utilizing a mixed-methods approach, the study employs systematic observation using the SUE tool, surveys, and Safety Walks to gather data. Findings indicate a high prevalence and frequency of fear of crime among female participants, with a significant reduction in fear observed post-intervention. Consistent with the Crime Prevention through Environmental Design (CPTED) framework, factors such as physical design, area activity, and user profiles are identified as key determinants of women’s insecurity. Notable improvements in both the physical and social characteristics of the urban environment are evident between the two phases. The consistency of results across the three methodological tools reinforces the validity and reliability of the findings, highlighting the potential of mixed methodologies. Overall, the study suggests that urban redesign effectively reduces fear of crime among women, offering insights for urban planning and policy-making to create safer, more inclusive public spaces.</p>
+<p>This study examines women’s perceptions of safety in a high-risk area undergoing urban redesign. Using a mixed-method approach - systematic observation, surveys, and Safety Walks before and after the intervention - it explores how the built environment influences feelings of insecurity. Grounded in Crime Prevention Through Environmental Design (CPTED), the research integrates quantitative and qualitative data to provide a comprehensive understanding of safety. It highlights the often-overlooked issue of women’s safety in public spaces and offers insights to guide urban planners and policymakers in creating inclusive, safety-focused design strategies that enhance well-being in public environments.</p>
 
 
 </section>
@@ -307,7 +307,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/www\.alexandertrinidad\.com");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
