@@ -25,6 +25,8 @@ categories:
   - CPTED
   - mixed methods 
 ---
+
+[![](https://img.shields.io/badge/Final_Version-Published_Version-blue)](https://doi.org/10.1177/10778012251362225)
 [![](https://img.shields.io/badge/PDF-Preprint-darkgreen)](https://doi.org/10.31235/osf.io/ztrkj)
 
 ## Citation (APA 7)
